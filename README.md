@@ -4,3 +4,6 @@ In the project, 2 independent flask applications were containerized and collecte
 
 ## Project Usage
 It can be run with the command "docker-compose up --build" in the folder. In addition, the pages can be accessed via http://localhost:81/flask/ and http://localhost:81/flask2/ after the project is up and running.
+
+## LICENSE
+MIT LICENSE
